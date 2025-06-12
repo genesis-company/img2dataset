@@ -1,5 +1,5 @@
 tqdm>=4.62.3
-opencv-python-headless>=4.5.5.62,<5
+opencv-python-headless>=4.5.5.62
 fire>=0.4.0
 webdataset>=0.2.5
 pandas>=1.1.5
